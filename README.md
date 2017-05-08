@@ -1,9 +1,8 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-BottomNavigation-green.svg?style=true)](https://android-arsenal.com/details/1/3612)
-[![Build Status](https://travis-ci.org/Ashok-Varma/BottomNavigation.svg?branch=master)](https://travis-ci.org/Ashok-Varma/BottomNavigation)
+
+Tanks a lot for Ashok Varma (http://ashokvarma.me/)
+and his library：https://github.com/Ashok-Varma/BottomNavigation
 
 # BottomNavigation
-
-**get sample apk from [Google Play Store][googlePlayStoreLink]**
 
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="300" height="550" />
 
@@ -25,39 +24,14 @@ This component that mimics the new [Material Design Bottom Navigation pattern][g
 
 Based on your IDE you can import library in one of the following ways
 
-Download [the latest JAR][mavenAarDownload] or grab via Maven:
-
-```xml
-<dependency>
-  <groupId>com.ashokvarma.android</groupId>
-  <artifactId>bottom-navigation-bar</artifactId>
-  <version>1.4.1</version>
-  <type>pom</type>
-</dependency>
+Download [the latest JAR][mavenAarDownload] or grab via  Gradle:
 ```
-or Gradle:
-```groovy
 compile 'com.ashokvarma.android:bottom-navigation-bar:1.4.1'
 ```
-or Ivy:
-```xml
-<dependency org='com.ashokvarma.android' name='bottom-navigation-bar' rev='1.4.1'>
-  <artifact name='$AID' ext='pom'></artifact>
-</dependency>
-```
-
 
 ## For Usage Docs [Visit Wiki][wikiLink]
-## For Usage Docs [Visit Wiki][wikiLink]
-## For Usage Docs [Visit Wiki][wikiLink]
-
 
 ## License
-
-```
-BottomNavigation library for Android
-Copyright (c) 2016 Ashok Varma (http://ashokvarma.me/).
-
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
