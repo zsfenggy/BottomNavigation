@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_tab_title">
+        <item>Vicinity</item>
+        <item>Forum</item>
+        <item>Message</item>
+        <item>Mine</item>
+    </string-array>
+
+    <array name="main_tab_icon">
+        <item>@drawable/ic_home_white_24dp</item>
+        <item>@drawable/ic_book_white_24dp</item>
+        <item>@drawable/ic_launch_white_24dp</item>
+        <item>@drawable/ic_tv_white_24dp</item>
+    </array>
+</resources>
